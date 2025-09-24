@@ -285,7 +285,7 @@
 ## ✨ Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bhavanab28033/" target="_blank">
+  <a href="https://www.linkedin.com/in/bhavanareddyy/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="mailto:reddybhavanapreethamb@gmail.com">
