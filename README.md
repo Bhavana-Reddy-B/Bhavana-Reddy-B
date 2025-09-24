@@ -115,55 +115,110 @@
 
 ## 📊 Featured Projects
 
-### 🏢 **Enterprise Sales Analytics Dashboard**
-*Interactive Tableau dashboard for comprehensive sales performance analysis*
+*5 Professional Data Visualization & Business Intelligence Projects*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Projects-5-blue?style=for-the-badge" alt="Total Projects" />
+  <img src="https://img.shields.io/badge/Power%20BI-3-orange?style=for-the-badge" alt="Power BI Projects" />
+  <img src="https://img.shields.io/badge/Tableau-2-green?style=for-the-badge" alt="Tableau Projects" />
+  <img src="https://img.shields.io/badge/Industries-4-purple?style=for-the-badge" alt="Industries Covered" />
+</div>
+
+### 🏢 **Enterprise Business Intelligence Dashboard**
+*Comprehensive Power BI solution for enterprise-level business intelligence and analytics*
+
+🔹 **Key Features:**
+- Multi-dimensional financial analysis
+- Advanced KPI tracking and reporting
+- Interactive executive dashboards
+- Real-time business metrics monitoring
+- Cross-functional analytics (Finance, Sales, Marketing, Supply Chain)
+
+🔹 **Technologies:** Power BI, DAX, Power Query, SQL
+
+🔗 **[View Project](https://github.com/Bhavana-Reddy-B/Enterprise-Business-Intelligence-Dashboard)**
+
+---
+
+### 📈 **E-Commerce Sales Analytics Dashboard**
+*Advanced Power BI solution for comprehensive e-commerce sales analysis and business intelligence*
 
 🔹 **Key Features:**
 - Real-time sales metrics and KPIs
 - Interactive drill-down capabilities
-- Executive summary views
-- Mobile-responsive design
-
-🔹 **Technologies:** Tableau, Snowflake, SQL
-
----
-
-### 📈 **Financial Performance Tracker**
-*Power BI solution for financial data visualization and reporting*
-
-🔹 **Key Features:**
-- Multi-dimensional financial analysis
-- Automated report generation
-- Custom DAX calculations
-- Integration with multiple data sources
-
-🔹 **Technologies:** Power BI, SQL Server, DAX
-
----
-
-### 🎯 **Customer Analytics Suite**
-*Comprehensive customer behavior analysis dashboard*
-
-🔹 **Key Features:**
 - Customer segmentation analysis
-- Churn prediction visualization
-- Lifetime value calculations
-- Interactive filtering and exploration
+- Geographic sales distribution
+- Profit margin analysis
+- Top performing products tracking
 
-🔹 **Technologies:** Tableau, Python, PostgreSQL
+🔹 **Technologies:** Power BI, DAX, Power Query, SQL
+
+🔗 **[View Project](https://github.com/Bhavana-Reddy-B/PowerBI-Sales-Dashboard)**
 
 ---
 
-### 📊 **Supply Chain Optimization Dashboard**
-*Real-time supply chain monitoring and analytics*
+### 💰 **Financial Analytics Dashboard**
+*Advanced financial performance analysis dashboard with comprehensive KPI tracking*
 
 🔹 **Key Features:**
-- Inventory level monitoring
-- Supplier performance tracking
-- Cost analysis and optimization
-- Alert systems for critical metrics
+- Financial KPI monitoring and analysis
+- Revenue and expense optimization insights
+- Interactive financial visualizations
+- Executive financial reporting
+- Real-time financial metrics tracking
 
-🔹 **Technologies:** Tableau, Snowflake, SQL
+🔹 **Technologies:** Power BI, DAX, Excel Integration, SQL
+
+🔗 **[View Project](https://github.com/Bhavana-Reddy-B/Financial-Analytics-Dashboard)**
+
+---
+
+### 🏥 **Healthcare Analytics Dashboard**
+*Comprehensive healthcare analytics platform with advanced patient health analysis*
+
+🔹 **Key Features:**
+- Patient health monitoring and trend analysis
+- Disease prediction and risk assessment
+- Interactive healthcare visualizations
+- Clinical decision support tools
+- Population health analytics
+
+🔹 **Technologies:** Tableau, Healthcare Data Analytics, Statistical Analysis
+
+🔗 **[View Project](https://github.com/Bhavana-Reddy-B/Healthcare-Analytics-Dashboard)**
+
+---
+
+### 🎯 **Customer Churn Analytics Dashboard**
+*Advanced customer behavior analysis with predictive modeling and business intelligence*
+
+🔹 **Key Features:**
+- Customer segmentation and churn prediction
+- Machine learning integration
+- Interactive customer analytics
+- Business intelligence reporting
+- Risk assessment and retention strategies
+
+🔹 **Technologies:** Power BI, Python, SQL, Machine Learning
+
+🔗 **[View Project](https://github.com/Bhavana-Reddy-B/Customer-Churn-Analytics-Dashboard)**
+
+---
+
+## 🏭 Industry Expertise
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Healthcare-🏥-lightblue?style=for-the-badge" alt="Healthcare" />
+  <img src="https://img.shields.io/badge/Finance-💰-green?style=for-the-badge" alt="Finance" />
+  <img src="https://img.shields.io/badge/E--Commerce-🛒-orange?style=for-the-badge" alt="E-Commerce" />
+  <img src="https://img.shields.io/badge/Enterprise-🏢-purple?style=for-the-badge" alt="Enterprise" />
+</div>
+
+**Cross-Industry Data Visualization Experience:**
+- 🏥 **Healthcare Analytics** - Patient health analysis and disease prediction
+- 💰 **Financial Services** - Financial performance and KPI tracking
+- 🛒 **E-Commerce** - Sales analytics and customer behavior insights
+- 🏢 **Enterprise BI** - Multi-functional business intelligence solutions
 
 ---
 
@@ -176,15 +231,6 @@
 🎯 **User-Centric Design:** Focusing on end-user needs to create dashboards that are both powerful and accessible
 
 ⚡ **Performance Optimization:** Ensuring fast loading times and smooth interactions across all devices
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavana-Reddy-B&theme=radical" alt="Bhavana's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavana-Reddy-B&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 
@@ -217,6 +263,13 @@
 - Requirements gathering and analysis
 - Cross-functional team collaboration
 - Stakeholder communication and training
+
+### 🏆 **Key Achievements**
+- **5 Professional Projects** across multiple industries
+- **Advanced Power BI Expertise** with DAX and Power Query
+- **Tableau Specialization** with complex visualizations
+- **Enterprise-Level Solutions** for Fortune 500 companies
+- **Cross-Industry Experience** in Healthcare, Finance, E-commerce, and Enterprise BI
 
 ---
 
