@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Bhavana Reddy!</h1>
 
 <p align="center">
-  <strong> Data Visualization Expert | Tableau Specialist | Business Intelligence Professional </strong><br>
+  <strong> AI Software Engineer | Generative AI | LLMs | RAG Systems | CUDA Enthusiast </strong><br>
   Transforming complex data into compelling visual stories that drive strategic business decisions
 </p>
 
