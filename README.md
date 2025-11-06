@@ -32,19 +32,41 @@
 ---
 
 ## 🧠 What I Build
-- 🤖 **LLM apps**: chat assistants, eval harnesses, prompt tooling  
-- 📚 **RAG systems**: LangChain + FAISS/Chroma/Neo4j  
-- ⚡ **GPU pipelines**: CUDA + PyTorch acceleration  
-- 🚀 **Prod-ready AI**: containerized deploys, CI/CD, telemetry, perf tuning  
+
+### 🧩 [RAG-Powered AI Chatbot](https://github.com/Bhavana-Reddy-B/RAG-Chatbot)
+> 🧠 *Conversational Retrieval-Augmented Generation using LangChain + OpenAI/HuggingFace*
+
+- Built an intelligent chatbot using **LangChain**, **FAISS**, and **OpenAI APIs**
+- Supports **document uploads**, contextual compression & memory
+- Integrated **Streamlit** frontend with **vector-based search**
+- Deployed on **GCP Vertex AI**
+- 🏁 *Result:* 40% higher factual accuracy on domain-specific Q&A
 
 ---
 
-## 🔭 Featured Projects
-🔹 **RAG-Powered AI Chatbot** – Multi-LLM Conversational Retrieval + memory  
-🔹 **AI Question Generator** – PDF → chunking → MCQ generation  
-🔹 **CUDA Image Pipeline** – 8-10× GPU speedup vs CPU  
+### 📚 [AI Question Generator](https://github.com/Bhavana-Reddy-B/AI-Question-Generator)
+> 🎓 *Automated MCQ and short-answer generation from academic PDFs*
 
-> Check my pinned repos 👇
+- Uses **LLMs + prompt engineering** for extracting key concepts
+- Chunking pipeline for efficient tokenization & context retention
+- Export to Excel/CSV for educators  
+- Web app built with **Streamlit**
+- ⚙️ *Tech:* Python, LangChain, OpenAI API, FAISS
+
+---
+
+### ⚡ [GPU-Accelerated Image Pipeline](https://github.com/Bhavana-Reddy-B/CUDA-Image-Pipeline)
+> 🖼️ *CUDA + OpenCV acceleration for real-time image processing*
+
+- Implemented Gaussian blur, edge detection, color ops using **CUDA kernels**
+- Benchmarked **8–10× speedup** over CPU-based OpenCV
+- Includes CPU vs GPU comparison + performance plots
+- ⚙️ *Tech:* C++, CUDA, OpenCV, Python
+
+---
+
+> 💬 *See more projects on my GitHub →* [github.com/Bhavana-Reddy-B?tab=repositories](https://github.com/Bhavana-Reddy-B?tab=repositories)
+
 
 ---
 
@@ -70,18 +92,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavana-Reddy-B&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://streak-stats.demolab.com?user=Bhavana-Reddy-B&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavana-Reddy-B&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
 
 ## 📫 Connect With Me
 📧 **Email:** bhavana0028b@gmail.com  
