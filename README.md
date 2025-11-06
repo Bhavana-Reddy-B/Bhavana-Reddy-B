@@ -2,7 +2,9 @@
 
 <p align="center">
   <strong> AI Software Engineer | Generative AI | LLMs | RAG Systems | CUDA Enthusiast </strong><br>
-  Transforming complex data into compelling visual stories that drive strategic business decisions
+  I'm passionate about building intelligent systems that bridge data and decision making.  
+With experience in **Large Language Models**, **RAG pipelines**, and **GPU-accelerated AI**,  
+I focus on developing scalable, explainable AI applications.
 </p>
 
 <p align="center">
